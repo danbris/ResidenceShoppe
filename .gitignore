@@ -1,0 +1,12 @@
+
+*.lock
+.vs/ResidenceShoppe/v16/.suo
+.vs/ResidenceShoppe/v16/Server/sqlite3/storage.ide
+.vs/ResidenceShoppe/v16/Server/sqlite3/storage.ide-shm
+.vs/ResidenceShoppe/v16/Server/sqlite3/storage.ide-wal
+obj/Debug/App.g.i.cs
+obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+obj/Debug/MainWindow.g.i.cs
+obj/Debug/ResidenceShoppe.csprojAssemblyReference.cache
+obj/Debug/ResidenceShoppe_MarkupCompile.i.cache
+obj/Debug/ResidenceShoppe_MarkupCompile.i.lref
